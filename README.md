@@ -1,0 +1,1 @@
+# script-tiro-cego
